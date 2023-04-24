@@ -1,4 +1,8 @@
+<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank">Arin</a></b></samp></h3>
+<p align="center"><br>
+  <samp>
+    「 I like little kids 」<br>
+  </samp>
+</p>
 
-<h1><center>Hello! I am Arin</center></h1>
-
-<center>「 I like little kids 」</center>
+<br>
